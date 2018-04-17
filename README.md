@@ -1,4 +1,5 @@
 # daw1
-ejemplo de proyecto colaborativo por los alumnos
+ejemplo de proyecto colaborativo por los alumnos antonio Miguel y Pepe
 ## participantes
-pepe lluyot
+pepe lluyot, antonio miguel
+
